@@ -92,10 +92,4 @@ This application includes comprehensive testing to ensure robust functionality. 
 
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the project's code of conduct.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-Special thanks to the developers and contributors of the technologies used in this project. Your work is greatly appreciated.
